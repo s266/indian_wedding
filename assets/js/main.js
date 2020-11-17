@@ -146,7 +146,7 @@
 /*--------------------------
  8. counterdown
 ---------------------------- */
-	function e() {
+	/*function e() {
 	    var e = new Date;
 	        e.setDate(e.getDate() + 25);
 	    var dd = e.getDate();
@@ -159,7 +159,7 @@
 	$('.counter').downCount({
 		date: e(),
 	    offset: 16
-	});
+	});*/
 /*--------------------------
 9. bxslider active
 ---------------------------- */   
